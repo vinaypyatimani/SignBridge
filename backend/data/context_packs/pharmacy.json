@@ -1,0 +1,202 @@
+{
+ "mode": "pharmacy",
+ "title": {
+  "en": "Pharmacy",
+  "de": "Apotheke",
+  "es": "Farmacia"
+ },
+ "note": "Draft gloss sequences. Have Deaf signers of each language review them before use.",
+ "phrases": [
+  {
+   "id": "prescription",
+   "text": {
+    "en": "I have a prescription.",
+    "de": "Ich habe ein Rezept.",
+    "es": "Tengo una receta."
+   },
+   "gloss": {
+    "ase": [
+     "ME",
+     "HAVE",
+     "PRESCRIPTION"
+    ],
+    "gsg": [
+     "ICH",
+     "HABEN",
+     "REZEPT"
+    ],
+    "ssp": [
+     "YO",
+     "TENER",
+     "RECETA"
+    ]
+   }
+  },
+  {
+   "id": "how-often",
+   "text": {
+    "en": "How many times a day should I take it?",
+    "de": "Wie oft am Tag soll ich es nehmen?",
+    "es": "¿Cuántas veces al día lo tomo?"
+   },
+   "gloss": {
+    "ase": [
+     "DAY",
+     "TAKE",
+     "HOW-MANY"
+    ],
+    "gsg": [
+     "TAG",
+     "NEHMEN",
+     "WIE-OFT"
+    ],
+    "ssp": [
+     "DÍA",
+     "TOMAR",
+     "CUÁNTAS-VECES"
+    ]
+   }
+  },
+  {
+   "id": "with-food",
+   "text": {
+    "en": "Take it with food.",
+    "de": "Nehmen Sie es zum Essen.",
+    "es": "Tómelo con comida."
+   },
+   "gloss": {
+    "ase": [
+     "EAT",
+     "WITH",
+     "TAKE"
+    ],
+    "gsg": [
+     "ESSEN",
+     "MIT",
+     "NEHMEN"
+    ],
+    "ssp": [
+     "COMIDA",
+     "CON",
+     "TOMAR"
+    ]
+   }
+  },
+  {
+   "id": "side-effects",
+   "text": {
+    "en": "It can make you sleepy.",
+    "de": "Es kann müde machen.",
+    "es": "Puede dar sueño."
+   },
+   "gloss": {
+    "ase": [
+     "MEDICINE",
+     "CAN",
+     "TIRED"
+    ],
+    "gsg": [
+     "MEDIKAMENT",
+     "KANN",
+     "MÜDE"
+    ],
+    "ssp": [
+     "MEDICAMENTO",
+     "PODER",
+     "SUEÑO"
+    ]
+   }
+  },
+  {
+   "id": "price",
+   "text": {
+    "en": "How much does it cost?",
+    "de": "Was kostet das?",
+    "es": "¿Cuánto cuesta?"
+   },
+   "gloss": {
+    "ase": [
+     "COST",
+     "HOW-MUCH"
+    ],
+    "gsg": [
+     "KOSTEN",
+     "WIE-VIEL"
+    ],
+    "ssp": [
+     "COSTAR",
+     "CUÁNTO"
+    ]
+   }
+  },
+  {
+   "id": "thanks",
+   "text": {
+    "en": "Thank you.",
+    "de": "Danke.",
+    "es": "Gracias."
+   },
+   "gloss": {
+    "ase": [
+     "THANK-YOU"
+    ],
+    "gsg": [
+     "DANKE"
+    ],
+    "ssp": [
+     "GRACIAS"
+    ]
+   }
+  }
+ ],
+ "vocabulary": {
+  "ase": [
+   "CAN",
+   "COST",
+   "DAY",
+   "EAT",
+   "HAVE",
+   "HOW-MANY",
+   "HOW-MUCH",
+   "ME",
+   "MEDICINE",
+   "PRESCRIPTION",
+   "TAKE",
+   "THANK-YOU",
+   "TIRED",
+   "WITH"
+  ],
+  "gsg": [
+   "DANKE",
+   "ESSEN",
+   "HABEN",
+   "ICH",
+   "KANN",
+   "KOSTEN",
+   "MEDIKAMENT",
+   "MIT",
+   "MÜDE",
+   "NEHMEN",
+   "REZEPT",
+   "TAG",
+   "WIE-OFT",
+   "WIE-VIEL"
+  ],
+  "ssp": [
+   "COMIDA",
+   "CON",
+   "COSTAR",
+   "CUÁNTAS-VECES",
+   "CUÁNTO",
+   "DÍA",
+   "GRACIAS",
+   "MEDICAMENTO",
+   "PODER",
+   "RECETA",
+   "SUEÑO",
+   "TENER",
+   "TOMAR",
+   "YO"
+  ]
+ }
+}

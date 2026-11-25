@@ -1,0 +1,342 @@
+{
+ "mode": "doctor",
+ "title": {
+  "en": "Doctor",
+  "de": "Arztpraxis",
+  "es": "Médico"
+ },
+ "note": "Draft gloss sequences. Have Deaf signers of each language review them before use.",
+ "phrases": [
+  {
+   "id": "why-here",
+   "text": {
+    "en": "What brings you here today?",
+    "de": "Was führt Sie heute zu mir?",
+    "es": "¿Qué le trae hoy por aquí?"
+   },
+   "gloss": {
+    "ase": [
+     "TODAY",
+     "YOU",
+     "COME",
+     "WHY"
+    ],
+    "gsg": [
+     "HEUTE",
+     "DU",
+     "KOMMEN",
+     "WARUM"
+    ],
+    "ssp": [
+     "HOY",
+     "TÚ",
+     "VENIR",
+     "POR-QUÉ"
+    ]
+   }
+  },
+  {
+   "id": "headache",
+   "text": {
+    "en": "I have a headache.",
+    "de": "Ich habe Kopfschmerzen.",
+    "es": "Me duele la cabeza."
+   },
+   "gloss": {
+    "ase": [
+     "ME",
+     "HEADACHE"
+    ],
+    "gsg": [
+     "ICH",
+     "KOPFSCHMERZEN"
+    ],
+    "ssp": [
+     "YO",
+     "DOLOR-CABEZA"
+    ]
+   }
+  },
+  {
+   "id": "where-hurt",
+   "text": {
+    "en": "Where does it hurt?",
+    "de": "Wo tut es weh?",
+    "es": "¿Dónde le duele?"
+   },
+   "gloss": {
+    "ase": [
+     "HURT",
+     "WHERE"
+    ],
+    "gsg": [
+     "SCHMERZ",
+     "WO"
+    ],
+    "ssp": [
+     "DOLOR",
+     "DÓNDE"
+    ]
+   }
+  },
+  {
+   "id": "how-long",
+   "text": {
+    "en": "How long have you had the pain?",
+    "de": "Seit wann haben Sie die Schmerzen?",
+    "es": "¿Desde cuándo tiene el dolor?"
+   },
+   "gloss": {
+    "ase": [
+     "PAIN",
+     "HOW-LONG"
+    ],
+    "gsg": [
+     "SCHMERZ",
+     "SEIT-WANN"
+    ],
+    "ssp": [
+     "DOLOR",
+     "DESDE-CUÁNDO"
+    ]
+   }
+  },
+  {
+   "id": "since-yesterday",
+   "text": {
+    "en": "Since yesterday.",
+    "de": "Seit gestern.",
+    "es": "Desde ayer."
+   },
+   "gloss": {
+    "ase": [
+     "SINCE",
+     "YESTERDAY"
+    ],
+    "gsg": [
+     "SEIT",
+     "GESTERN"
+    ],
+    "ssp": [
+     "DESDE",
+     "AYER"
+    ]
+   }
+  },
+  {
+   "id": "fever",
+   "text": {
+    "en": "Do you have a fever?",
+    "de": "Haben Sie Fieber?",
+    "es": "¿Tiene fiebre?"
+   },
+   "gloss": {
+    "ase": [
+     "FEVER",
+     "YOU"
+    ],
+    "gsg": [
+     "FIEBER",
+     "DU"
+    ],
+    "ssp": [
+     "FIEBRE",
+     "TÚ"
+    ]
+   }
+  },
+  {
+   "id": "allergy",
+   "text": {
+    "en": "Are you allergic to any medicine?",
+    "de": "Sind Sie gegen Medikamente allergisch?",
+    "es": "¿Es alérgico a algún medicamento?"
+   },
+   "gloss": {
+    "ase": [
+     "MEDICINE",
+     "ALLERGIC",
+     "YOU"
+    ],
+    "gsg": [
+     "MEDIKAMENT",
+     "ALLERGIE",
+     "DU"
+    ],
+    "ssp": [
+     "MEDICAMENTO",
+     "ALERGIA",
+     "TÚ"
+    ]
+   }
+  },
+  {
+   "id": "dose",
+   "text": {
+    "en": "Take one tablet twice a day for five days.",
+    "de": "Nehmen Sie fünf Tage lang zweimal täglich eine Tablette.",
+    "es": "Tome una pastilla dos veces al día durante cinco días."
+   },
+   "gloss": {
+    "ase": [
+     "PILL",
+     "ONE",
+     "TWICE",
+     "EVERY-DAY",
+     "FIVE",
+     "DAY"
+    ],
+    "gsg": [
+     "TABLETTE",
+     "EINS",
+     "ZWEIMAL",
+     "TÄGLICH",
+     "FÜNF",
+     "TAG"
+    ],
+    "ssp": [
+     "PASTILLA",
+     "UNA",
+     "DOS-VECES",
+     "CADA-DÍA",
+     "CINCO",
+     "DÍA"
+    ]
+   }
+  },
+  {
+   "id": "come-back",
+   "text": {
+    "en": "Please come back if it gets worse.",
+    "de": "Bitte kommen Sie wieder, wenn es schlimmer wird.",
+    "es": "Vuelva si empeora, por favor."
+   },
+   "gloss": {
+    "ase": [
+     "WORSE",
+     "COME-BACK",
+     "PLEASE"
+    ],
+    "gsg": [
+     "SCHLIMMER",
+     "WIEDERKOMMEN",
+     "BITTE"
+    ],
+    "ssp": [
+     "PEOR",
+     "VOLVER",
+     "POR-FAVOR"
+    ]
+   }
+  },
+  {
+   "id": "interpreter",
+   "text": {
+    "en": "I need an interpreter.",
+    "de": "Ich brauche einen Dolmetscher.",
+    "es": "Necesito un intérprete."
+   },
+   "gloss": {
+    "ase": [
+     "ME",
+     "NEED",
+     "INTERPRETER"
+    ],
+    "gsg": [
+     "ICH",
+     "BRAUCHEN",
+     "DOLMETSCHER"
+    ],
+    "ssp": [
+     "YO",
+     "NECESITAR",
+     "INTÉRPRETE"
+    ]
+   }
+  }
+ ],
+ "vocabulary": {
+  "ase": [
+   "ALLERGIC",
+   "COME",
+   "COME-BACK",
+   "DAY",
+   "EVERY-DAY",
+   "FEVER",
+   "FIVE",
+   "HEADACHE",
+   "HOW-LONG",
+   "HURT",
+   "INTERPRETER",
+   "ME",
+   "MEDICINE",
+   "NEED",
+   "ONE",
+   "PAIN",
+   "PILL",
+   "PLEASE",
+   "SINCE",
+   "TODAY",
+   "TWICE",
+   "WHERE",
+   "WHY",
+   "WORSE",
+   "YESTERDAY",
+   "YOU"
+  ],
+  "gsg": [
+   "ALLERGIE",
+   "BITTE",
+   "BRAUCHEN",
+   "DOLMETSCHER",
+   "DU",
+   "EINS",
+   "FIEBER",
+   "FÜNF",
+   "GESTERN",
+   "HEUTE",
+   "ICH",
+   "KOMMEN",
+   "KOPFSCHMERZEN",
+   "MEDIKAMENT",
+   "SCHLIMMER",
+   "SCHMERZ",
+   "SEIT",
+   "SEIT-WANN",
+   "TABLETTE",
+   "TAG",
+   "TÄGLICH",
+   "WARUM",
+   "WIEDERKOMMEN",
+   "WO",
+   "ZWEIMAL"
+  ],
+  "ssp": [
+   "ALERGIA",
+   "AYER",
+   "CADA-DÍA",
+   "CINCO",
+   "DESDE",
+   "DESDE-CUÁNDO",
+   "DOLOR",
+   "DOLOR-CABEZA",
+   "DOS-VECES",
+   "DÍA",
+   "DÓNDE",
+   "FIEBRE",
+   "HOY",
+   "INTÉRPRETE",
+   "MEDICAMENTO",
+   "NECESITAR",
+   "PASTILLA",
+   "PEOR",
+   "POR-FAVOR",
+   "POR-QUÉ",
+   "TÚ",
+   "UNA",
+   "VENIR",
+   "VOLVER",
+   "YO"
+  ]
+ }
+}

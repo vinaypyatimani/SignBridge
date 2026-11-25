@@ -1,0 +1,239 @@
+{
+ "mode": "office",
+ "title": {
+  "en": "Public office",
+  "de": "Bürgeramt",
+  "es": "Oficina pública"
+ },
+ "note": "Draft gloss sequences. Have Deaf signers of each language review them before use.",
+ "phrases": [
+  {
+   "id": "appointment",
+   "text": {
+    "en": "I have an appointment.",
+    "de": "Ich habe einen Termin.",
+    "es": "Tengo una cita."
+   },
+   "gloss": {
+    "ase": [
+     "ME",
+     "HAVE",
+     "APPOINTMENT"
+    ],
+    "gsg": [
+     "ICH",
+     "HABEN",
+     "TERMIN"
+    ],
+    "ssp": [
+     "YO",
+     "TENER",
+     "CITA"
+    ]
+   }
+  },
+  {
+   "id": "register",
+   "text": {
+    "en": "I want to register my address.",
+    "de": "Ich möchte meinen Wohnsitz anmelden.",
+    "es": "Quiero empadronarme."
+   },
+   "gloss": {
+    "ase": [
+     "ME",
+     "WANT",
+     "REGISTER",
+     "ADDRESS"
+    ],
+    "gsg": [
+     "ICH",
+     "WOHNUNG",
+     "ANMELDEN",
+     "MÖCHTEN"
+    ],
+    "ssp": [
+     "YO",
+     "QUERER",
+     "EMPADRONAR"
+    ]
+   }
+  },
+  {
+   "id": "id",
+   "text": {
+    "en": "Please show your ID or passport.",
+    "de": "Bitte zeigen Sie Ihren Ausweis oder Pass.",
+    "es": "Muestre su DNI o pasaporte, por favor."
+   },
+   "gloss": {
+    "ase": [
+     "ID",
+     "OR",
+     "PASSPORT",
+     "SHOW",
+     "PLEASE"
+    ],
+    "gsg": [
+     "AUSWEIS",
+     "ODER",
+     "PASS",
+     "ZEIGEN",
+     "BITTE"
+    ],
+    "ssp": [
+     "DNI",
+     "O",
+     "PASAPORTE",
+     "ENSEÑAR",
+     "POR-FAVOR"
+    ]
+   }
+  },
+  {
+   "id": "form",
+   "text": {
+    "en": "Please fill in this form.",
+    "de": "Bitte füllen Sie dieses Formular aus.",
+    "es": "Rellene este formulario, por favor."
+   },
+   "gloss": {
+    "ase": [
+     "FORM",
+     "FILL-IN",
+     "PLEASE"
+    ],
+    "gsg": [
+     "FORMULAR",
+     "AUSFÜLLEN",
+     "BITTE"
+    ],
+    "ssp": [
+     "FORMULARIO",
+     "RELLENAR",
+     "POR-FAVOR"
+    ]
+   }
+  },
+  {
+   "id": "wait",
+   "text": {
+    "en": "Please wait until your number is called.",
+    "de": "Bitte warten Sie, bis Ihre Nummer aufgerufen wird.",
+    "es": "Espere hasta que llamen su número."
+   },
+   "gloss": {
+    "ase": [
+     "YOUR",
+     "NUMBER",
+     "CALL",
+     "WAIT",
+     "PLEASE"
+    ],
+    "gsg": [
+     "DEINE",
+     "NUMMER",
+     "AUFRUFEN",
+     "WARTEN",
+     "BITTE"
+    ],
+    "ssp": [
+     "TU",
+     "NÚMERO",
+     "LLAMAR",
+     "ESPERAR",
+     "POR-FAVOR"
+    ]
+   }
+  },
+  {
+   "id": "sign-here",
+   "text": {
+    "en": "Please sign here.",
+    "de": "Bitte unterschreiben Sie hier.",
+    "es": "Firme aquí, por favor."
+   },
+   "gloss": {
+    "ase": [
+     "HERE",
+     "SIGN-NAME",
+     "PLEASE"
+    ],
+    "gsg": [
+     "HIER",
+     "UNTERSCHREIBEN",
+     "BITTE"
+    ],
+    "ssp": [
+     "AQUÍ",
+     "FIRMAR",
+     "POR-FAVOR"
+    ]
+   }
+  }
+ ],
+ "vocabulary": {
+  "ase": [
+   "ADDRESS",
+   "APPOINTMENT",
+   "CALL",
+   "FILL-IN",
+   "FORM",
+   "HAVE",
+   "HERE",
+   "ID",
+   "ME",
+   "NUMBER",
+   "OR",
+   "PASSPORT",
+   "PLEASE",
+   "REGISTER",
+   "SHOW",
+   "SIGN-NAME",
+   "WAIT",
+   "WANT",
+   "YOUR"
+  ],
+  "gsg": [
+   "ANMELDEN",
+   "AUFRUFEN",
+   "AUSFÜLLEN",
+   "AUSWEIS",
+   "BITTE",
+   "DEINE",
+   "FORMULAR",
+   "HABEN",
+   "HIER",
+   "ICH",
+   "MÖCHTEN",
+   "NUMMER",
+   "ODER",
+   "PASS",
+   "TERMIN",
+   "UNTERSCHREIBEN",
+   "WARTEN",
+   "WOHNUNG",
+   "ZEIGEN"
+  ],
+  "ssp": [
+   "AQUÍ",
+   "CITA",
+   "DNI",
+   "EMPADRONAR",
+   "ENSEÑAR",
+   "ESPERAR",
+   "FIRMAR",
+   "FORMULARIO",
+   "LLAMAR",
+   "NÚMERO",
+   "O",
+   "PASAPORTE",
+   "POR-FAVOR",
+   "QUERER",
+   "RELLENAR",
+   "TENER",
+   "TU",
+   "YO"
+  ]
+ }
+}

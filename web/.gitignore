@@ -1,0 +1,8 @@
+node_modules
+.next
+lib/generated
+next-env.d.ts
+*.tsbuildinfo
+public/mediapipe/*.task
+public/ort
+public/mediapipe/wasm
